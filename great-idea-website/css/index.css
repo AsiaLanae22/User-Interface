@@ -136,7 +136,7 @@ img{
 .services{
 	margin-top: 45px;
 	height: 200px;
-	width: 250px;
+    width: 250px;
 	float: left;
 }
 
@@ -155,5 +155,24 @@ img{
 	height: 200px;
 	width: 250px;
 	float: left;
+}
+
+.contact-info{
+	color: black;
+	width: 256px;
+}
+
+
+footer{
+	color: black;
+	margin: 40px auto;
+	text-align: center;
+
+}
+
+
+
+.bottom-content{
+	width: 900px;
 }
 
