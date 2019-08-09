@@ -70,3 +70,38 @@ h1 {
 /* Your code starts here! */
 
 
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+header nav{
+	display: inline-block;
+	margin-top: 40px;
+	position: fixed;
+	background-color: pink;
+	color: black;
+}
+
+
+
+header img.logo{
+	margin-left: 800px;
+	position: relative;
+
+}
+
+
+header img.logo{
+	margin-left: 800px;
+	position: relative;
+}
+
+
+/*TB LR*/
+
+header nav a{
+	margin: 0 20px;
+}
+
+#quote
